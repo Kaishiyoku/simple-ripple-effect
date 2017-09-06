@@ -3,6 +3,10 @@
 Ce repository contient deux fichiers qui vous serviront à créer très facilement des effets dits de *vague* ou *ripple effect* en anglais, inspirés de [Google Material Design](https://material.io/guidelines/motion/material-motion.html#material-motion-implications-of-motion).
 
 
+## Demo
+![ScreenShot](https://github.com/audeo23/simple-ripple-effect/blob/master/media/Ripple%20effect%20demo.gif)
+
+
 ## Utilisation
 
 
