@@ -37,5 +37,5 @@ Il suffit d'insérer l'attribut *data-ripple* dans l'élément HTML de votre cho
 
 Par défaut, l'effet de vague aura une couleur blanche. Pour y appliquer une couleur différente, il suffit de donner à l'attribut *data-ripple*, la valeur du code RGB ou RGBa (avec prise en charge de l'opcacité) de la couleur désirée. Par exemple, pour une vague rouge légèrement transparente :
 ```html
-<div ata-ripple="rgba(155,0,0, 0.5)" class="foo baar"> </div>
+<div data-ripple="rgba(155,0,0, 0.5)" class="foo baar"> </div>
 ```
